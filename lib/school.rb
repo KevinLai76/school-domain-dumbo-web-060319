@@ -15,4 +15,7 @@ class School
     roster[num]
   end
   
+  def sort
+    roster
+  end
 end
